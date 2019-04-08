@@ -19,7 +19,6 @@ def main():
     '''dates and holidays'''
 
     days = [
-        'placeholder', #this one takes the 0 spot which is never accessed
         'Mondas',
         'Tirdas',
         'Middas',
@@ -30,7 +29,6 @@ def main():
         ]
 
     months = [
-        'placeholder', #this one takes the 0 spot which is never accessed
         'Morning Star',
         'Sun\'s Dawn',
         'First Seed',
