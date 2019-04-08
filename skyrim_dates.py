@@ -96,7 +96,7 @@ def main():
 
     if months[month] == 'Morning Star':
         print(sstone, 'The Ritual')
-    if months[month] == 'Sun\'s Dawn':
+    elif months[month] == 'Sun\'s Dawn':
         print(sstone, 'The Lover')
     elif months[month] == 'First Seed':
         print(sstone, 'The Lord')
