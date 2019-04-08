@@ -1,6 +1,6 @@
 # SkyrimDates
-A script for showing current date as a lore based date in Skyrim, including lore-frienbdly holiday dates.
-More to come later (possiby lore library
+A script for showing current dates as a lore based dates in Skyrim, including lore-frienbdly holiday dates.
+More to come later (possiby a lore library)
 
 ## requirements
 - termcolor (pip install termcolor)
