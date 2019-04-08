@@ -29,6 +29,7 @@ def main():
         ]
 
     months = [
+        'placeholder', #not accessed
         'Morning Star',
         'Sun\'s Dawn',
         'First Seed',
