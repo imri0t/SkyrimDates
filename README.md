@@ -5,3 +5,4 @@ More to come later (possiby lore library
 ## requirements
 - termcolor (pip install termcolor)
 - colorama (pip install colorama)
+- python 3
